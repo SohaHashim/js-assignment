@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: cadetblue;
+}
+button{
+    border-radius: 5px;
+    background-color: rgb(167, 231, 231);
+}
